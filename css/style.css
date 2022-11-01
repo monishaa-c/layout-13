@@ -1,0 +1,338 @@
+.header .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.header
+{
+	height:75px;
+	background-color:grey;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.header .header-fc .button
+{
+	height:75px;
+	width:55px;
+	background-color:lightgrey;
+}
+.ring .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.ring 
+{
+	height:770px;
+	background-color:lightblue;
+}
+.ring .ring-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.ring .ring-fc .image
+{
+	height:400px;
+	width:700px;
+	background-color:white;
+	margin-top:80px;
+}
+.ring .ring-fc .text
+{
+	height:155px;
+	width:665px;
+	background-color:pink;
+	margin-top:50px;
+}
+.body .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.body 
+{
+	height:1000px;
+	background-color:blue;
+}
+.body .body-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.body .body-fc .text
+{
+	height:500px;
+	width:850px;
+	background-color:pink;
+	margin-top:20px;
+}
+.body .body-fc .image
+{
+	height:430px;
+	width:500px;
+	background-color:white;
+	margin-top:20px;
+}
+.collections .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.collections
+{
+	height:675px;
+	background-color:lightgrey;
+}
+.collections .collections-fc
+{
+	display:flex;
+	justify-content:center;
+
+}
+.collections .collections-fc .image
+{
+	height:550px;
+	width:100%;
+	background-color:white;
+	margin-top:70px;
+}
+.collections .collections-fc .image .text
+{
+	height:70px;
+	width:100%;
+	background-color:blue;
+	margin-top:250px;
+}
+.limited .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.limited
+{
+	height:700px;
+	background-color:blue;
+}
+.limited .limited-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.limited .limited-fc .image
+{
+	height:450px;
+	width:500px;
+	background-color:white;
+	margin-top:30px;
+}
+.limited .limited-fc .text
+{
+	height:150px;
+	width:850px;
+	background-color:pink;
+	margin-top:30px;
+}
+.creative .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.creative
+{
+	height:645px;
+	background-color:white;
+}
+.creative .creative-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.creative .creative-fc .text
+{
+	height:500px;
+	width:530px;
+	background-color:red;
+	margin-top:70px;
+}
+.creative .creative-fc .image
+{
+	height:500px;
+	width:530px;
+	background-color:orange;
+	margin-top:70px;
+}
+.image .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.image
+{
+	height:525px;
+	background-color:white;
+}
+.image .image-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.image .image-fc .boxa
+{
+	height:500px;
+	width:430px;
+	background-color:red;
+	margin-top:15px;
+}
+.image .image-fc .boxb
+{
+	height:500px;
+	width:430px;
+	background-color:orange;
+	margin-top:15px;
+}
+.image .image-fc .boxc
+{
+	height:500px;
+	width:430px;
+	background-color:lightblue;
+	margin-top:15px;
+}
+.content .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.content
+{
+	height:1150px;
+	background-color:white;
+}
+.content .content-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.content .content-fc .text
+{
+	height:150px;
+	width:820px;
+	background-color:grey;
+	margin-top:25px;
+}
+.content .content-fc .image
+{
+	height:330px;
+	width:415px;
+	background-color:grey;
+	margin-top:15px;
+}
+.content .content-fc .texta
+{
+	height:45px;
+	width:820px;
+	background-color:grey;
+	margin-top:15px;
+}
+.content .content-fc .textb
+{
+	height:45px;
+	width:820px;
+	background-color:grey;
+	margin-top:130px;
+}
+.content .content-fc .textc
+{
+	width:80%;
+	background-color:black;
+	height:275px;
+	margin-top:50px;
+	
+}
+.content .content-fc .textc .box
+{
+	justify-content:space-evenly;
+	display:flex;
+	width:100%;
+}
+.content .content-fc .textc .textboxa
+{
+	width:100%;
+	height:60px;
+	background-color:lightblue;
+	margin-top:10px;
+}
+.content .content-fc .textc .textboxb
+{
+	width:100%;
+	height:60px;
+	background-color:lightblue;
+	margin-top:10px;
+	
+}
+.content .content-fc .textc .box .textboxc
+{
+	width:200px;
+	height:47px;
+	background-color:lightblue;
+margin-top:50px;
+}
+.content .content-fc .textc .box .textboxd
+{
+	width:200px;
+	height:47px;
+	background-color:lightblue;
+	margin-top:50px;
+}
+.content .content-fc .textc .box .textboxe
+{
+	width:200px;
+	height:47px;
+	background-color:lightblue;
+	margin-top:50px;
+}
+.content .content-fc .textc .box .textboxf
+{
+	width:200px;
+	height:47px;
+	background-color:lightblue;
+	margin-top:50px;
+}
+.footer .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.footer
+{
+	height:235px;
+	background-color:black;
+	
+}
+.footer .footer-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.footer .footer-fc .texta
+{
+	height:55px;
+	width:100%;
+	background-color:white;
+	margin-top:50px;
+}
+.footer .footer-fc .textb
+{
+	height:55px;
+	width:500px;
+	background-color:white;
+	margin-top:20px;
+}
